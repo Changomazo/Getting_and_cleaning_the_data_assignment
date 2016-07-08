@@ -12,4 +12,6 @@ The run_analysis.R R-script does the following:
 * Reads the downloaded and extracted files into R
 * Defines the column names for each variable
 * Merges the data (from the variables created before in R)
-* Extraction mean and Standard Deviation for each measurement. This step includes 
+* Extraction mean and Standard Deviation for each measurement. This step includes creating a vector defining the IDs, mean and std, and subssetting the merged dataset
+* Labelling the data set with the appropiate labels
+* 
