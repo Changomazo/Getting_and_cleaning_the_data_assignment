@@ -4,7 +4,7 @@ All files (including script, codebook and Readme) necessary to complete the assi
 ## Assignment files included:
 * run_analysis.R
 * README.md
-* CookBook.md
+* CodeBook.md
 * The tidy Data set obtained after applying all calculations explained in point 5 of the assignment.
 
 The run_analysis.R R-script does the following:
